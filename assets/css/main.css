@@ -163,7 +163,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #f7021f;
+		color: #ed4933;
 		font-weight: 800;
 		letter-spacing: 0.225em;
 		line-height: 1em;
@@ -172,7 +172,7 @@ input, select, textarea {
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: #f7021f;
+			color: #ed4933;
 			text-decoration: none;
 		}
 
